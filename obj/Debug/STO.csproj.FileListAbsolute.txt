@@ -1,0 +1,47 @@
+C:\_Progects\_Laboratornie\Vlad\STO\STO\bin\Debug\STO.exe.config
+C:\_Progects\_Laboratornie\Vlad\STO\STO\bin\Debug\STO.exe
+C:\_Progects\_Laboratornie\Vlad\STO\STO\bin\Debug\STO.pdb
+C:\_Progects\_Laboratornie\Vlad\STO\STO\obj\Debug\STO.FClient.resources
+C:\_Progects\_Laboratornie\Vlad\STO\STO\obj\Debug\STO.FLIstClients.resources
+C:\_Progects\_Laboratornie\Vlad\STO\STO\obj\Debug\STO.FOrder.resources
+C:\_Progects\_Laboratornie\Vlad\STO\STO\obj\Debug\STO.Form1.resources
+C:\_Progects\_Laboratornie\Vlad\STO\STO\obj\Debug\STO.Properties.Resources.resources
+C:\_Progects\_Laboratornie\Vlad\STO\STO\obj\Debug\STO.csproj.GenerateResource.cache
+C:\_Progects\_Laboratornie\Vlad\STO\STO\obj\Debug\STO.csproj.CoreCompileInputs.cache
+C:\_Progects\_Laboratornie\Vlad\STO\STO\obj\Debug\STO.exe
+C:\_Progects\_Laboratornie\Vlad\STO\STO\obj\Debug\STO.pdb
+C:\_Progects\_Laboratornie\Vlad\STO\STO\bin\Debug\EntityFramework.dll
+C:\_Progects\_Laboratornie\Vlad\STO\STO\bin\Debug\EntityFramework.SqlServer.dll
+C:\_Progects\_Laboratornie\Vlad\STO\STO\bin\Debug\System.Data.SQLite.dll
+C:\_Progects\_Laboratornie\Vlad\STO\STO\bin\Debug\System.Data.SQLite.EF6.dll
+C:\_Progects\_Laboratornie\Vlad\STO\STO\bin\Debug\System.Data.SQLite.Linq.dll
+C:\_Progects\_Laboratornie\Vlad\STO\STO\bin\Debug\EntityFramework.xml
+C:\_Progects\_Laboratornie\Vlad\STO\STO\bin\Debug\EntityFramework.SqlServer.xml
+C:\_Progects\_Laboratornie\Vlad\STO\STO\bin\Debug\System.Data.SQLite.xml
+C:\_Progects\_Laboratornie\Vlad\STO\STO\obj\Debug\STO.csproj.CopyComplete
+C:\_Progects\_Laboratornie\Vlad\STO\STO\obj\Debug\STO.FWorks.resources
+c:\_Progects\_Laboratornie\Vlad\STO\STO\obj\Debug\STO.csproj.AssemblyReference.cache
+C:\Users\79133\Desktop\3 КУРС\Шарапов\STO 2\STO\STO\bin\Debug\STO.exe.config
+C:\Users\79133\Desktop\3 КУРС\Шарапов\STO 2\STO\STO\bin\Debug\STO.exe
+C:\Users\79133\Desktop\3 КУРС\Шарапов\STO 2\STO\STO\bin\Debug\STO.pdb
+C:\Users\79133\Desktop\3 КУРС\Шарапов\STO 2\STO\STO\bin\Debug\EntityFramework.dll
+C:\Users\79133\Desktop\3 КУРС\Шарапов\STO 2\STO\STO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\79133\Desktop\3 КУРС\Шарапов\STO 2\STO\STO\bin\Debug\System.Data.SQLite.dll
+C:\Users\79133\Desktop\3 КУРС\Шарапов\STO 2\STO\STO\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\79133\Desktop\3 КУРС\Шарапов\STO 2\STO\STO\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\79133\Desktop\3 КУРС\Шарапов\STO 2\STO\STO\bin\Debug\EntityFramework.xml
+C:\Users\79133\Desktop\3 КУРС\Шарапов\STO 2\STO\STO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\79133\Desktop\3 КУРС\Шарапов\STO 2\STO\STO\bin\Debug\System.Data.SQLite.xml
+C:\Users\79133\Desktop\3 КУРС\Шарапов\STO 2\STO\STO\obj\Debug\STO.csproj.AssemblyReference.cache
+C:\Users\79133\Desktop\3 КУРС\Шарапов\STO 2\STO\STO\obj\Debug\STO.csproj.SuggestedBindingRedirects.cache
+C:\Users\79133\Desktop\3 КУРС\Шарапов\STO 2\STO\STO\obj\Debug\STO.FClient.resources
+C:\Users\79133\Desktop\3 КУРС\Шарапов\STO 2\STO\STO\obj\Debug\STO.FLIstClients.resources
+C:\Users\79133\Desktop\3 КУРС\Шарапов\STO 2\STO\STO\obj\Debug\STO.FOrder.resources
+C:\Users\79133\Desktop\3 КУРС\Шарапов\STO 2\STO\STO\obj\Debug\STO.Form1.resources
+C:\Users\79133\Desktop\3 КУРС\Шарапов\STO 2\STO\STO\obj\Debug\STO.FWorks.resources
+C:\Users\79133\Desktop\3 КУРС\Шарапов\STO 2\STO\STO\obj\Debug\STO.Properties.Resources.resources
+C:\Users\79133\Desktop\3 КУРС\Шарапов\STO 2\STO\STO\obj\Debug\STO.csproj.GenerateResource.cache
+C:\Users\79133\Desktop\3 КУРС\Шарапов\STO 2\STO\STO\obj\Debug\STO.csproj.CoreCompileInputs.cache
+C:\Users\79133\Desktop\3 КУРС\Шарапов\STO 2\STO\STO\obj\Debug\STO.csproj.CopyComplete
+C:\Users\79133\Desktop\3 КУРС\Шарапов\STO 2\STO\STO\obj\Debug\STO.exe
+C:\Users\79133\Desktop\3 КУРС\Шарапов\STO 2\STO\STO\obj\Debug\STO.pdb
